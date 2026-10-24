@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "2.2.0",
+  "version": "2.3.0",
   "board": "nodemcuv2-4m2m",
-  "size": 534576,
-  "sha256": "beb545737cf343829ffed7607b4301281ddd90e0f7c3efa2c6bcd5fab45f9aa4",
-  "url": "https://raw.githubusercontent.com/boklagvladimir-dev/gyverlamp-firmware/main/firmware/GyverLamp-2.2.0.bin",
-  "notes": "Ручные обновления из GitHub, автопроверка и ночная автоустановка"
+  "size": 568160,
+  "sha256": "4296afff02d1df4e44db00f84ef17c9a29f2cdccd003a5d2208f2e97f35bd967",
+  "url": "https://raw.githubusercontent.com/boklagvladimir-dev/gyverlamp-firmware/main/firmware/GyverLamp-2.3.0.bin",
+  "notes": "Единый интерфейс: сворачиваемые функции, автоматическое применение с подтверждением и повтором ошибки. Свои координаты погоды, интервал 5–120 минут, показ паролей, новая страница загрузки BIN."
 }
