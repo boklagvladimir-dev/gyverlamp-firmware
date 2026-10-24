@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "version": "2.2.0",
+  "board": "nodemcuv2-4m2m",
+  "size": 534576,
+  "sha256": "beb545737cf343829ffed7607b4301281ddd90e0f7c3efa2c6bcd5fab45f9aa4",
+  "url": "https://raw.githubusercontent.com/boklagvladimir-dev/gyverlamp-firmware/main/firmware/GyverLamp-2.2.0.bin",
+  "notes": "Ручные обновления из GitHub, автопроверка и ночная автоустановка"
+}
