@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "2.3.0",
+  "version": "2.4.0",
   "board": "nodemcuv2-4m2m",
-  "size": 568160,
-  "sha256": "4296afff02d1df4e44db00f84ef17c9a29f2cdccd003a5d2208f2e97f35bd967",
-  "url": "https://raw.githubusercontent.com/boklagvladimir-dev/gyverlamp-firmware/main/firmware/GyverLamp-2.3.0.bin",
-  "notes": "Единый интерфейс: сворачиваемые функции, автоматическое применение с подтверждением и повтором ошибки. Свои координаты погоды, интервал 5–120 минут, показ паролей, новая страница загрузки BIN."
+  "size": 587008,
+  "sha256": "10996a4a38e3dc585146e1c8404d8e68b68cf8e9922df0c6610bebaaf6367318",
+  "url": "https://raw.githubusercontent.com/boklagvladimir-dev/gyverlamp-firmware/main/firmware/GyverLamp-2.4.0.bin",
+  "notes": "10 бесшовных эффектов для цилиндра; минимальный Telegram на ESP8266: включение, выключение, состояние и выбор эффекта. Токен и Telegram ID задаются в веб-интерфейсе. Старые настройки сохраняются."
 }
