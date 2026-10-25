@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "2.4.0",
+  "version": "2.5.0",
   "board": "nodemcuv2-4m2m",
-  "size": 587008,
-  "sha256": "10996a4a38e3dc585146e1c8404d8e68b68cf8e9922df0c6610bebaaf6367318",
-  "url": "https://raw.githubusercontent.com/boklagvladimir-dev/gyverlamp-firmware/main/firmware/GyverLamp-2.4.0.bin",
-  "notes": "10 бесшовных эффектов для цилиндра; минимальный Telegram на ESP8266: включение, выключение, состояние и выбор эффекта. Токен и Telegram ID задаются в веб-интерфейсе. Старые настройки сохраняются."
+  "size": 582800,
+  "sha256": "33746a6cabfa34716ac827e283ca1ac2011844eb474d6153bc089b424bd8378a",
+  "url": "https://raw.githubusercontent.com/boklagvladimir-dev/gyverlamp-firmware/main/firmware/GyverLamp-2.5.0.bin",
+  "notes": "Все 25 эффектов переработаны под цилиндр. Скорость 1–100%, масштаб с индивидуальными безопасными пределами и понятными единицами. Однократный перенос старых параметров; яркость, цвет, выбранный эффект и избранное сохраняются."
 }
